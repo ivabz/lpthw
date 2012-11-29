@@ -1,0 +1,4 @@
+Remember your checklist for functions?
+Then do this exercise paying close attention to
+how functions and files can work together 
+to make useful stuff.
